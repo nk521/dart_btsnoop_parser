@@ -2,6 +2,15 @@ name: btsnoop_parser
 description: Parse HCI snoop logs with this library.
 version: 1.0.0
 repository: https://github.com/nk521/dart_btsnoop_parser
+platforms:
+  android:
+  ios:
+  linux:
+  macos:
+  web:
+  windows:
+funding:
+  - https://buymeacoffee.com/nkmason
 
 environment:
   sdk: ^3.2.0
