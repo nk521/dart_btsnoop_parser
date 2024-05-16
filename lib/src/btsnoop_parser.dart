@@ -1,8 +1,6 @@
 import 'dart:io';
 import 'dart:typed_data';
 
-import 'package:btsnoop_parser/btsnoop_parser.dart';
-
 import 'constants.dart' as constants;
 import 'utils.dart' as utils;
 
